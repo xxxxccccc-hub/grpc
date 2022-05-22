@@ -1,9 +1,9 @@
 package main
 
 import (
-	"../pb"
 	"context"
 	"fmt"
+	"github.com/xxxxccccc-hub/grpc/pb"
 	"google.golang.org/grpc"
 )
 
